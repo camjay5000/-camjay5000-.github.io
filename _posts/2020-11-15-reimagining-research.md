@@ -9,7 +9,7 @@ subtitle: Blog Post 5
 
 ###### *Vitamin D Supplementation Improves Cognitive Function Through Reducing Oxidative Stress Regulated by Telomere Length in Older Adults with Mild Cognitive Impairment: A 12-Month Randomized Controlled Trial*
 
-Yang, Tong | Wang, Hualou | Xiong, Ying | Chen, Chong | Duan, Keran | Jia, Jingya | Ma, Fei.
+Yang, Tong; Wang, Hualou; Xiong, Ying; Chen, Chong; Duan, Keran; Jia, Jingya; Ma, Fei.
 
 #### 1. Identify a statistical question that you could ask.
 Can Vitamin D prevent future cognitive impairment in younger adults?
